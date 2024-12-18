@@ -1,0 +1,10 @@
+[
+    {
+        "img": "path/to/question1.png",
+        "options": ["Option 1", "Option 2", "Option 3", "Option 4"]
+    },
+    {
+        "img": "path/to/question2.png",
+        "options": ["Option 1", "Option 2", "Option 3", "Option 4"]
+    }
+]
